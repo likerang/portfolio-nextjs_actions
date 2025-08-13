@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from 'next/link'
 import LoginStatus from "@/component/LoginStatus";
+import {withBase} from "@/lib/path";
 
 //CSS 로드
 import "./common.css";
